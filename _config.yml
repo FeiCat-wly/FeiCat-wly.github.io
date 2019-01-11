@@ -19,7 +19,7 @@ paginate: 10
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md","README.zh.md"]
 anchorjs: true                          # if you want to customize anchor. check out line:181 of `post.html`
 # If you have timezone issue (e.g. #68) in China, uncomment to use this:
-#timezone: CN  
+timezone: CN  
 
 gems: [jekyll-paginate]
 
@@ -49,7 +49,7 @@ kramdown:
 
 
 # Disqus settings
-disqus_username: false
+disqus_username: feicat
 
 # Netease settings
 netease_comment: false
@@ -61,8 +61,8 @@ netease_comment: false
 # ba_track_id: [your track id]
 
 # Google Analytics
-#ga_track_id: 'UA-128131131-1'            # Format: UA-xxxxxx-xx
-#ga_domain: auto
+ga_track_id: 'UA-128131131-1'            # Format: UA-xxxxxx-xx
+ga_domain: auto
 
 
 
@@ -74,8 +74,8 @@ netease_comment: false
 
 
 # Featured Tags
-#featured-tags: true                     # whether or not using Feature-Tags
-#featured-condition-size: 1              # A tag will be featured if the size of it is more than this condition value
+featured-tags: true                     # whether or not using Feature-Tags
+featured-condition-size: 1              # A tag will be featured if the size of it is more than this condition value
 
 
 
