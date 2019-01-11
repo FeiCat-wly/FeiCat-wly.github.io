@@ -1,7 +1,7 @@
 # Site settings
 title: FeiCat Blog
 SEOTitle: 肥猫的博客 | FeiCat Blog
-#header-img: img/home-bg.jpg
+header-img: penguin1.png
 email: squirrelwly@gmail.com
 description: "Be what you want be"
 keyword: "码农"
@@ -61,8 +61,8 @@ netease_comment: false
 # ba_track_id: [your track id]
 
 # Google Analytics
-ga_track_id: 'UA-128131131-1'            # Format: UA-xxxxxx-xx
-ga_domain: auto
+#ga_track_id: 'UA-128131131-1'            # Format: UA-xxxxxx-xx
+#ga_domain: auto
 
 
 
