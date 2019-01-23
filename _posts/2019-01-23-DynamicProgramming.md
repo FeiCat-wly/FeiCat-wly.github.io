@@ -3,16 +3,13 @@ layout: post
 title: "动态规划"
 subtitle: 'Dynamic Programming'
 author: "feiCat"
-header-style: text
+header-img: "img/view2.png"
 catalog: true
 tags:
   - 邹博
   - 算法
   - 动态规划
 ---
-
-[toc]
-
 
 
 # 动态规划
